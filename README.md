@@ -5,11 +5,6 @@
 **Universidad Nacional de Colombia - Sede Medellín**  
 **Periodo:** 2026-2S
 
-## Documento de entrega
-
-- [PDF](Actividad2_Thomas_Ramirez.pdf)
-- [Word editable](Actividad2_Thomas_Ramirez.docx)
-
 ## Ejercicios
 
 | Ejercicio | Tema | Código |
